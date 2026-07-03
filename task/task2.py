@@ -1,0 +1,9 @@
+len("12345")
+Name="Deekshi"
+Roll_NUmber=12345
+Percentage=85.5
+is_winning=True
+print(type(Name))
+print(type(Roll_NUmber))
+print(type(Percentage))
+print(type(is_winning))
